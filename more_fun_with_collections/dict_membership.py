@@ -4,4 +4,4 @@ This program checks if an element is in a dictionary
 
 
 def in_dict(my_dict, element):
-    pass
+    return element in my_dict
