@@ -4,5 +4,5 @@ This program
 
 
 def in_set(set, element):
-    pass
+    return element in set
 
